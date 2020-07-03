@@ -23,7 +23,8 @@ h1{
     width: 110%;
 }
 .top-banner{
-    background-image: url(work/images/IMG_5837.PNG);
+    background-image: url(work2/images/IMG_5837.PNG);
+    background-repeat: no-repeat;
     
 }
 section{
@@ -34,19 +35,19 @@ section{
     background-color: skyblue;
     padding: 10px 20px;
     border-radius: 5px;
-    color: rgb(228, 228, 238);
+    color:white;
     font-weight: 700;
 }
 .name{
     color: rgb(211, 35, 144);
-}
+
 .dream{
-    background-image: url(work2/images/IMG_5837.PNG);
+    background-image: url(work2/images/top-banner2.png);
     background-repeat: no-repeat;
     background-position: right;
 }
 .light{
-    background-image: url(work2/images/top-banner2.png);
+    background-image: url(work2/images/top-banner1.png);
     height: 500;
 
 }
@@ -59,7 +60,7 @@ section{
   text-align: center;
 }
 .footer{
-    background-image: url(work2/images/IMG_5837.PNG);
+    background-image: url(work2/images/top.banner123.png);
 }
 .text-align{
     text-align: center;
