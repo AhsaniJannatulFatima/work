@@ -1,0 +1,106 @@
+body{
+    font-family: 'Poppins', sans-serif;
+}
+h1{
+    font-size: 50px;
+}
+.name-highlight{
+    color: rgb(128, 41, 209);
+}
+.web{
+    color: rgb(74, 114, 35);
+    
+}
+.half-width{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%
+}
+
+
+.half-width img{
+    width: 110%;
+}
+.top-banner{
+    background-image: url(work/images/IMG_5837.PNG);
+    
+}
+section{
+    height: 600px;
+}
+.link-button{
+    text-decoration: none;
+    background-color: skyblue;
+    padding: 10px 20px;
+    border-radius: 5px;
+    color: rgb(228, 228, 238);
+    font-weight: 700;
+}
+.name{
+    color: rgb(211, 35, 144);
+}
+.dream{
+    background-image: url(work2/images/IMG_5837.PNG);
+    background-repeat: no-repeat;
+    background-position: right;
+}
+.light{
+    background-image: url(work2/images/top-banner2.png);
+    height: 500;
+
+}
+.latest-work img{
+    width: 20%;
+    margin-left: 9%;
+    padding: 1%;
+}
+.latest{
+  text-align: center;
+}
+.footer{
+    background-image: url(work2/images/IMG_5837.PNG);
+}
+.text-align{
+    text-align: center;
+}
+.align{
+    text-align: center;
+}
+#align{
+    text-align: center ;
+
+}
+.center{
+    text-align: center ;
+}
+.color{
+    color: white;
+}
+.email{
+    text-align: center;
+    background-image: linear-gradient(45deg,magenta,hotpink);
+    padding: 30px,50px;
+    height: 110px;
+    width: 100%;
+    border-radius: 100px;
+    
+    
+    
+}
+#center{
+    text-align: center;
+}
+.thank{
+    text-align: center;
+  
+   
+
+}
+#thank{
+    text-align: justify;
+}
+#footer{
+    font-size: 12px;
+    text-align: center;
+}
